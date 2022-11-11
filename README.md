@@ -1,2 +1,2 @@
-# sWaPniL-chatbot
-we are doing our first proect.
+# sWaPniL_chatbot
+we are doing our first project.
